@@ -1,3 +1,5 @@
+Here are the sample images of the system (Note: Some of the images are not up to date.)
+
 Home Page
 ![image](https://github.com/user-attachments/assets/951aa00f-0f3a-4c8e-b98f-cb400e540c4f)
 ![image](https://github.com/user-attachments/assets/e47b21eb-1612-4a7b-8c4b-c9466ccbeb9b)
