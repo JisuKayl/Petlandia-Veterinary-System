@@ -1,4 +1,6 @@
-## Here are the sample images of the system (Note: Some of the images are not up to date, especially the validations.)
+## Here are the sample images of the system 
+
+(Note: Some of the images are not up to date, especially the validations.)
 
 Home Page
 ![image](https://github.com/user-attachments/assets/951aa00f-0f3a-4c8e-b98f-cb400e540c4f)
